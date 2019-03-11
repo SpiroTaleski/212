@@ -1,0 +1,23 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "gittask",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": true,
+        "job_alias": null,
+        "job_type": "regular",
+        "llfeed_token": "GZXlLP2Y4z2FqXOnMpgxD0QgwVSzpLNP",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_path": "Exercises.slp",
+        "snaplex_path": "DEV Cloud"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
